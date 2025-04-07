@@ -6,7 +6,7 @@ This project tackles the challenge of **automatically detecting satirical vs. in
 
 ## 🚀 Project Structure
 
-- `data_collection.ipynb`  
+- `1_data_collection.ipynb`  
   Scrapes headlines from 4 French news sources (2 satirical, 2 informative). Headlines are saved with source-based labels.
 
 - `2_data_cleaning_and_merging.ipynb`  
@@ -80,6 +80,6 @@ Satirical content is intentionally close to real news — making it both fascina
 
 ## 📎 Author
 
-Created by [Your Name] — ML enthusiast with a passion for language and social context in AI.
+Created by Luca Matarelli — ML enthusiast with a passion for language and social context in AI.
 
 ---
