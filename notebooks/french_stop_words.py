@@ -1,3 +1,8 @@
+# Source: https://github.com/explosion/spaCy/blob/master/spacy/lang/fr/stop_words.py
+# Personal modifications:
+# - for elisions, added equivalents without apostrophe eg. qu' -> qu
+# - added "neuf"
+
 FRENCH_STOP_WORDS = """
 a à â abord afin ah ai aie ainsi ait allaient allons
 alors anterieur anterieure anterieures antérieur antérieure antérieures
